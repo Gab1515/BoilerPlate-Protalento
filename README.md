@@ -6,7 +6,7 @@ Mongoose + Xpress + node
 2- crear scripts en el packge.json.
 3- instalar dependencias.
  a- `npm i nodemon -D`
- B- `npm install --save sequelize pg pg-hstore express cors`
+ B- `npm install --save sequelize pg pg-hstore express cors`  `npm install --save express cors mongoDB mongoose`
 4- Crear un index para conectar al iniciar scripts de npm
 5- crear estructura de carpetas del proyecto (src y su contenido)
 6- crear app.js y db.js dentro de carpeta /src
